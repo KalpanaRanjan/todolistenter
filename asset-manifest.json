@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todolistenter/static/css/main.a9e383b4.css",
+    "main.js": "/todolistenter/static/js/main.5bbf6791.js",
+    "static/js/453.59bb3b6d.chunk.js": "/todolistenter/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/todolistenter/index.html",
+    "main.a9e383b4.css.map": "/todolistenter/static/css/main.a9e383b4.css.map",
+    "main.5bbf6791.js.map": "/todolistenter/static/js/main.5bbf6791.js.map",
+    "453.59bb3b6d.chunk.js.map": "/todolistenter/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e383b4.css",
+    "static/js/main.5bbf6791.js"
+  ]
+}
