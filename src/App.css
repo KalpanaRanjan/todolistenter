@@ -71,6 +71,7 @@ h1{
   padding: 10px;
   cursor: pointer;
   width: fit-content;
+  align-items: center;
 
 }
 .clear-completed-btn {
@@ -144,4 +145,9 @@ todolist-item p{
     opacity: 1;
     transform: translateY(0);
   }
+}
+.todo-btn-area {
+  display: flex;
+justify-content: center;
+align-items: center;
 }
